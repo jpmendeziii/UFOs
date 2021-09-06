@@ -11,6 +11,8 @@ To start the update of the enhanced UFO website for the challenge, the index.htm
 
 ![Resources/Challenge_Index_update_4_added_elements.jpg](Resources/Challenge_Index_update_4_added_elements.jpg)
 ![Resources/Challenge_Code_for_steps1_10.jpg](Resources/Challenge_Code_for_steps1_10.jpg)
+
+For Step 2, located before the buildTable(tableData) function at the end of the starter code, the event listener was modified from this module so that it detects a "change" on each input element and calls the updateFilters() function.  Please see excerpt below.
 ![Resources/Challenge_Code_for_step2.jpg](Resources/Challenge_Code_for_step2.jpg)
 ![Resources/Challenge_Completed_Page_OUTPUT.jpg](Resources/Challenge_Completed_Page_OUTPUT.jpg)
 ![Resources/Challenge_Completed_Filtered_Search_Triangle.jpg](Resources/Challenge_Completed_Filtered_Search_Triangle.jpg)
