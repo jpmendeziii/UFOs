@@ -24,3 +24,7 @@ When you start the index.html page, the resulting output is shown below.
 
 To utilize the functionality of the UFO website, enter filter search criteria.  In this example, the shape "triangle" was entered and the output is shown below.  Also, to clear the search and restart, click the "Clear Table" button.
 ![Resources/Challenge_Completed_Filtered_Search_Triangle.jpg](Resources/Challenge_Completed_Filtered_Search_Triangle.jpg)
+
+## Summary
+Drawback:
+A drawback of this new design is it would cleaner if the table did not reside on the search page – It could be made more concise and less clunky if all the table was not shown on the UFO Sightings webpage.
