@@ -5,10 +5,9 @@
 * Deliverable 1: Filter UFO sightings on multiple criteria
 * Deliverable 2: A written report on the UFO analysis README.md.
 
-### Deliverable 1:
-Filter UFO sightings on multiple criteria
-Deliverable Requirements:
-Using JavaScript and HTML, you’ll modify the code in your index.html file to create more table filters. In addition to the date filter you created in this module, you’ll add filters for the city, state, country, and shape, as shown in the following image:
+## Deliverable 1:
+Filter UFO sightings on multiple criteria:
+To start the update of the enhanced UFO website for the challenge, the index.html file had to be updated by removing the list element that creates the button.  Four more list elements were created: city, state, country, and shape. These will be like the "Enter Date" list element. Each element should have the same "id" as the object properties in the data.js file.  Please see image below.
 
 ![Resources/Challenge_Index_update_4_added_elements.jpg](Resources/Challenge_Index_update_4_added_elements.jpg)
 ![Resources/Challenge_Code_for_steps1_10.jpg](Resources/Challenge_Code_for_steps1_10.jpg)
