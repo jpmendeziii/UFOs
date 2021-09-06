@@ -18,6 +18,7 @@ In Step 1 of the app.js file, create an empty filters variable to keep track of 
 For Step 2, located before the buildTable(tableData) function at the end of the starter code, the event listener was modified from this module so that it detects a "change" on each input element and calls the updateFilters() function.  Please see excerpt below.
 ![Resources/Challenge_Code_for_step2.jpg](Resources/Challenge_Code_for_step2.jpg)
 
+## Results
 When you start the index.html page, the resulting output is shown below.
 ![Resources/Challenge_Completed_Page_OUTPUT.jpg](Resources/Challenge_Completed_Page_OUTPUT.jpg)
 
