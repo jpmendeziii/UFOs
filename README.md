@@ -28,3 +28,5 @@ To utilize the functionality of the UFO website, enter filter search criteria.  
 ## Summary
 Drawback:
 A drawback of this new design is it would cleaner if the table did not reside on the search page – It could be made more concise and less clunky if all the table was not shown on the UFO Sightings webpage.
+Recommendations:
+Please use the following GitHub Pages, for more information on how to use IO pages.  It would be helpful to create a better HTML, CSS, and JavaScript Work interaction that feed UFOs data from most concise and automate workload.
